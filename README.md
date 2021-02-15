@@ -1,1 +1,1 @@
-# google_trends_report
+# Google trends data app
